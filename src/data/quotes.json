@@ -1,0 +1,228 @@
+{
+    "topics": [
+        {
+            "id": "motivation",
+            "name": "Motivation",
+            "description": "Inspirational quotes to boost your motivation and drive"
+        },
+        {
+            "id": "success",
+            "name": "Success",
+            "description": "Quotes about achieving success and reaching your goals"
+        },
+        {
+            "id": "wisdom",
+            "name": "Wisdom",
+            "description": "Timeless wisdom and life lessons from great thinkers"
+        },
+        {
+            "id": "love",
+            "name": "Love",
+            "description": "Beautiful quotes about love, relationships, and connection"
+        },
+        {
+            "id": "leadership",
+            "name": "Leadership",
+            "description": "Quotes about leadership, influence, and making a difference"
+        },
+        {
+            "id": "creativity",
+            "name": "Creativity",
+            "description": "Quotes to inspire creativity and innovation"
+        }
+    ],
+    "quotes": {
+        "motivation": [
+            {
+                "id": 1,
+                "text": "The only way to do great work is to love what you do.",
+                "author": "Steve Jobs",
+                "reference": "Stanford Commencement Speech, 2005"
+            },
+            {
+                "id": 2,
+                "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+                "author": "Winston Churchill",
+                "reference": "Speech to House of Commons, 1941"
+            },
+            {
+                "id": 3,
+                "text": "The future belongs to those who believe in the beauty of their dreams.",
+                "author": "Eleanor Roosevelt",
+                "reference": "You Learn by Living, 1960"
+            },
+            {
+                "id": 4,
+                "text": "Don't watch the clock; do what it does. Keep going.",
+                "author": "Sam Levenson",
+                "reference": "In One Era and Out the Other, 1973"
+            },
+            {
+                "id": 5,
+                "text": "The only limit to our realization of tomorrow is our doubts of today.",
+                "author": "Franklin D. Roosevelt",
+                "reference": "State of the Union Address, 1941"
+            }
+        ],
+        "success": [
+            {
+                "id": 6,
+                "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+                "author": "Winston Churchill",
+                "reference": "Speech to House of Commons, 1941"
+            },
+            {
+                "id": 7,
+                "text": "The road to success and the road to failure are almost exactly the same.",
+                "author": "Colin R. Davis",
+                "reference": "The Power of Positive Thinking"
+            },
+            {
+                "id": 8,
+                "text": "Success is not the key to happiness. Happiness is the key to success.",
+                "author": "Albert Schweitzer",
+                "reference": "Out of My Life and Thought, 1933"
+            },
+            {
+                "id": 9,
+                "text": "The difference between a successful person and others is not a lack of strength, not a lack of knowledge, but rather a lack in will.",
+                "author": "Vince Lombardi",
+                "reference": "What It Takes to Be Number One, 1970"
+            },
+            {
+                "id": 10,
+                "text": "Success usually comes to those who are too busy to be looking for it.",
+                "author": "Henry David Thoreau",
+                "reference": "Walden, 1854"
+            }
+        ],
+        "wisdom": [
+            {
+                "id": 11,
+                "text": "The only true wisdom is in knowing you know nothing.",
+                "author": "Socrates",
+                "reference": "Apology, Plato's Dialogues"
+            },
+            {
+                "id": 12,
+                "text": "Life is what happens when you're busy making other plans.",
+                "author": "John Lennon",
+                "reference": "Beautiful Boy (Darling Boy), 1980"
+            },
+            {
+                "id": 13,
+                "text": "The unexamined life is not worth living.",
+                "author": "Socrates",
+                "reference": "Apology, Plato's Dialogues"
+            },
+            {
+                "id": 14,
+                "text": "Wisdom begins in wonder.",
+                "author": "Socrates",
+                "reference": "Theaetetus, Plato's Dialogues"
+            },
+            {
+                "id": 15,
+                "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+                "author": "Nelson Mandela",
+                "reference": "Long Walk to Freedom, 1994"
+            }
+        ],
+        "love": [
+            {
+                "id": 16,
+                "text": "The best thing to hold onto in life is each other.",
+                "author": "Audrey Hepburn",
+                "reference": "Interview with Life Magazine, 1954"
+            },
+            {
+                "id": 17,
+                "text": "Love is composed of a single soul inhabiting two bodies.",
+                "author": "Aristotle",
+                "reference": "Nicomachean Ethics"
+            },
+            {
+                "id": 18,
+                "text": "The greatest happiness of life is the conviction that we are loved.",
+                "author": "Victor Hugo",
+                "reference": "Les Misérables, 1862"
+            },
+            {
+                "id": 19,
+                "text": "Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day.",
+                "author": "Anonymous",
+                "reference": "Modern Proverb"
+            },
+            {
+                "id": 20,
+                "text": "To love and be loved is to feel the sun from both sides.",
+                "author": "David Viscott",
+                "reference": "How to Live with Another Person, 1974"
+            }
+        ],
+        "leadership": [
+            {
+                "id": 21,
+                "text": "The supreme quality for leadership is unquestionably integrity.",
+                "author": "Dwight D. Eisenhower",
+                "reference": "Speech to West Point Graduates, 1947"
+            },
+            {
+                "id": 22,
+                "text": "Leadership is the capacity to translate vision into reality.",
+                "author": "Warren Bennis",
+                "reference": "On Becoming a Leader, 1989"
+            },
+            {
+                "id": 23,
+                "text": "A leader is one who knows the way, goes the way, and shows the way.",
+                "author": "John C. Maxwell",
+                "reference": "The 21 Irrefutable Laws of Leadership, 1998"
+            },
+            {
+                "id": 24,
+                "text": "The function of leadership is to produce more leaders, not more followers.",
+                "author": "Ralph Nader",
+                "reference": "Speech at University of California, 1972"
+            },
+            {
+                "id": 25,
+                "text": "Leadership and learning are indispensable to each other.",
+                "author": "John F. Kennedy",
+                "reference": "Speech in Dallas, 1963"
+            }
+        ],
+        "creativity": [
+            {
+                "id": 26,
+                "text": "Creativity is intelligence having fun.",
+                "author": "Albert Einstein",
+                "reference": "Interview with Life Magazine, 1955"
+            },
+            {
+                "id": 27,
+                "text": "The creative adult is the child who survived.",
+                "author": "Ursula K. Le Guin",
+                "reference": "The Language of the Night, 1979"
+            },
+            {
+                "id": 28,
+                "text": "Creativity takes courage.",
+                "author": "Henri Matisse",
+                "reference": "Interview with Art News, 1951"
+            },
+            {
+                "id": 29,
+                "text": "Every artist was first an amateur.",
+                "author": "Ralph Waldo Emerson",
+                "reference": "Essays: First Series, 1841"
+            },
+            {
+                "id": 30,
+                "text": "The world is but a canvas to the imagination.",
+                "author": "Henry David Thoreau",
+                "reference": "A Week on the Concord and Merrimack Rivers, 1849"
+            }
+        ]
+    }
+}
