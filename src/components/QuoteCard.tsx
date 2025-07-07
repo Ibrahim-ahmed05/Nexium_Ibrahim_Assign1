@@ -20,7 +20,7 @@ const QuoteCard = ({ quote }: QuoteCardProps) => {
                     </div>
                     <div className="flex-1 min-w-0">
                         <blockquote className="text-sm sm:text-base md:text-lg font-medium text-gray-900 leading-relaxed">
-                            "{quote.text}"
+                            &quot;{quote.text}&quot;
                         </blockquote>
                     </div>
                 </div>

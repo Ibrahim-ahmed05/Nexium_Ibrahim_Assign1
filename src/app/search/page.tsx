@@ -8,9 +8,17 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import QuoteCard from "@/components/QuoteCard"
 import quotesData from "@/data/quotes.json"
 
+// Define Quote type only if not already defined
+interface Quote {
+    id: number;
+    text: string;
+    author: string;
+    reference: string;
+}
+
 export default function SearchPage() {
     const [selectedTopic, setSelectedTopic] = useState<string>("")
-    const [displayedQuotes, setDisplayedQuotes] = useState<any[]>([])
+    const [displayedQuotes, setDisplayedQuotes] = useState<Quote[]>([])
     const [isLoading, setIsLoading] = useState(false)
 
     const handleSearch = () => {

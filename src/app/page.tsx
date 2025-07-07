@@ -4,10 +4,18 @@ import { Button } from "@/components/ui/button"
 import QuoteCard from "@/components/QuoteCard"
 import quotesData from "@/data/quotes.json"
 
+// Define Quote type
+interface Quote {
+  id: number;
+  text: string;
+  author: string;
+  reference: string;
+}
+
 export default function HomePage() {
   // Get random quotes from different topics for the homepage
   const getRandomQuotes = () => {
-    const allQuotes: any[] = []
+    const allQuotes: Quote[] = []
     Object.values(quotesData.quotes).forEach(topicQuotes => {
       allQuotes.push(...topicQuotes)
     })
@@ -23,7 +31,7 @@ export default function HomePage() {
     {
       icon: Sparkles,
       title: "Curated Collection",
-      description: "Handpicked quotes from the world's greatest thinkers, leaders, and visionaries."
+      description: "Handpicked quotes from the world&#39;s greatest thinkers, leaders, and visionaries."
     },
     {
       icon: Heart,
