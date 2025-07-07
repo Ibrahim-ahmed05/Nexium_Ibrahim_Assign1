@@ -6,7 +6,7 @@ export default function AboutPage() {
         {
             icon: BookOpen,
             title: "Curated Collection",
-            description: "Our quotes are carefully selected from the world's greatest thinkers, leaders, and visionaries across different eras and cultures."
+            description: "Our quotes are carefully selected from the world&#39;s greatest thinkers, leaders, and visionaries across different eras and cultures."
         },
         {
             icon: Award,
@@ -92,12 +92,12 @@ export default function AboutPage() {
                             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8 items-center">
                                 <div>
                                     <p className="text-base sm:text-lg text-gray-700 leading-relaxed mb-4">
-                                        We're passionate about bringing you the most inspiring and thought-provoking quotes
-                                        from history's greatest minds. Our carefully curated collection spans centuries of
+                                        We&apos;re passionate about bringing you the most inspiring and thought-provoking quotes
+                                        from history&apos;s greatest minds. Our carefully curated collection spans centuries of
                                         human wisdom, from ancient philosophers to modern visionaries.
                                     </p>
                                     <p className="text-base sm:text-lg text-gray-700 leading-relaxed">
-                                        Whether you're seeking motivation for a challenging day, wisdom for important decisions,
+                                        Whether you&apos;re seeking motivation for a challenging day, wisdom for important decisions,
                                         or simply a moment of reflection, our quotes are here to guide and inspire you.
                                     </p>
                                 </div>
@@ -118,7 +118,7 @@ export default function AboutPage() {
                             What Makes Us Special
                         </h2>
                         <p className="text-base sm:text-lg md:text-xl text-gray-600 max-w-2xl mx-auto px-4">
-                            We're committed to providing you with the best quote experience possible.
+                            We&apos;re committed to providing you with the best quote experience possible.
                         </p>
                     </div>
 

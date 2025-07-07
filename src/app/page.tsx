@@ -68,7 +68,7 @@ export default function HomePage() {
             </h1>
 
             <p className="text-base sm:text-lg md:text-xl text-gray-600 mb-6 sm:mb-8 max-w-2xl sm:max-w-3xl mx-auto leading-relaxed px-4">
-              Discover powerful quotes from history's greatest minds. Get motivated, find wisdom,
+              Discover powerful quotes from history&#39;s greatest minds. Get motivated, find wisdom,
               and unlock your potential with our curated collection of inspirational quotes.
             </p>
 
